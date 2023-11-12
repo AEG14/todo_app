@@ -97,9 +97,7 @@ class _TodoListPageState extends State<TodoListPage> {
                     var todo = box.getAt(index);
                     Color backgroundColor = Colors.white;
 
-                    if (todo != null) {
-                      // Adjust background color as needed
-                    }
+                    if (todo != null) {}
 
                     return Padding(
                       padding: const EdgeInsets.symmetric(vertical: 5),
